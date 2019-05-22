@@ -15,7 +15,7 @@ I will assume you are on a MacBook but this will work on Linux, Mac and Windows.
 
 ### Install Docker
 
-1. Instal Docker
+1. Install Docker
 	2. Find it here: https://docs.docker.com/install/
 
 ### Configure Docker
@@ -51,7 +51,7 @@ brew install composer
 brew install docker-sync
 ```
 
-### Start Proecess
+### Start Process
 
 Now we need to go through some prelim. steps to get started.
 
@@ -183,7 +183,7 @@ docker-sync stop
 
 #### Cool stuff bro but how do I develop on this?
 
-So some things glossed over above are some specific commands provided to work with the environment. Additionally, how to work with an already existing site. Also what is the difference in Production and Development.
+So some things glossed over above are some specific commands provided to work with the environment. Additionally, how to work with an already existing site. Also what is the difference in Production and Development?
 
 ##### Production
 This is where all files are static, it is a read-only file system and local changes have no effect on the server. This is very fast, everything is locked and is great for doing a final pass on QA items or when reviewing another developers work. 

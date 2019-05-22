@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magento 2 CLoud Docker
+title: Magento 2 Cloud Docker
 ---
 
 ## Magento Cloud Docker Development

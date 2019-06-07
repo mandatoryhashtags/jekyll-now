@@ -48,7 +48,7 @@ brew install composer
 	* This can be replaced with other options but it was recommended by Magento
 
 ```
-brew install docker-sync
+sudo gem install docker-sync
 ```
 
 ### Start Process
@@ -161,7 +161,7 @@ docker-compose run deploy magento-command config:set system/full_page_cache/cach
 * And last but not least we want to run the familiar cache clear
 
 ```
-docker-compose run deploy magento-command cache:clea
+docker-compose run deploy magento-command cache:clean
 ```
 
 * Now we have a fully deployed site before we can hit it we need to configure our hosts file

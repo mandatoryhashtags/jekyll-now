@@ -3,7 +3,7 @@ layout: post
 title: Magento 2 Cloud Docker
 ---
 
-## Magento Cloud Docker Development
+
 
 While at Magento Imagine 2019 this year I was excited to sit in on a lab for the new Cloud docker local development environment. While the lab was a little bit of a disaster due to some technical difficulties the team at Adobe/Magento were able to cover the basics for someone who has a deep knowledge of docker. 
 

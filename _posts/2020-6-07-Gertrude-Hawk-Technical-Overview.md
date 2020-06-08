@@ -4,7 +4,7 @@ title: Gertrude Hawk Technical Overview
 ---
 
 
-# Gertrude Hawk Technical Overview
+
 As a Magento technical lead, you always want to work on complex issues, build big things that have a lasting impact, and help your clients reach their end goals.
 
 When I was handed Gertrude Hawk Chocolates in the Spring of 2019, I was excited but a little trepidatious about the complexity of the Fundraising portion of the project. Moving a website off of a Cold Fusion integration and to Magento 2 is complicated in itself. Making a fundraising component with this broad array of features was genuinely going to be one of the most challenging builds I had ever done.

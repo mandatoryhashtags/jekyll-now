@@ -131,7 +131,7 @@ Each parent needed to be able to assign their children to a specific school, the
 I decided to use Fastly to my advantage with sellers. I would output the Organization's six-digit code and the seller's ID from their entity table to the URL, thus making the seller store a cached page. 
 
 ## The pain points
-Invariably even the best-architected solution will run into trouble. Mine started the admin; though they certainly did not end there. 
+Invariably even the best-architected solution will run into trouble. Mine started in the admin; though they certainly did not end there. 
 
 ### The Admin
 I wanted to take liberal advantage of the Admin UI components that are used in a myriad of places. The first struggle I hit almost instantly was that without doing customization, you could not `re-use` a column. Sadly, a much more significant hurdle came along later. I wanted to display a UX for adding products to the Catalog. The UI components in the admin are suitable for basic CRUD operations but lack the depth of a real UX. So I defaulted (for time) to using a much older paradigm used in Magento 1 known as the Block view.
